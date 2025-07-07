@@ -17,10 +17,11 @@ Goal is for learners to be able to join top tier labs (OpenAI, Google, MIT) or p
 ## Module 1: Foundations
 *Building blocks of machine learning and computation*
 
-### OPTIONAL 1.1 Programming Fundamentals
+### 1.1 Programming Fundamentals
 - **1.1.1 Python Basics**
   - Variables and data types 
-  [Markdown](1.1%20Programming%20Fundamentals/1.1.1%20Python%20Basics/Variables%20and%20Data%20Types.md)
+  [Colab](https://colab.research.google.com/drive/1jH6V6G5Z5F2S9j6LkwwYUqDMKcJJPXFH?usp=sharing)
+  [Blog](1.1%20Programming%20Fundamentals/1.1.1%20Python%20Basics/Variables%20and%20Data%20Types.md)
   [Jupyter](1.1%20Programming%20Fundamentals/1.1.1%20Python%20Basics/Variables%20and%20Data%20Types.ipynb)
   - Lists, dictionaries, functions
   - Control flow and loops
@@ -29,7 +30,7 @@ Goal is for learners to be able to join top tier labs (OpenAI, Google, MIT) or p
   - [Arrays and vectorization](https://dev.to/vuk_rosic/numpy-essentials-arrays-and-vectorization-19id)
   - Broadcasting and indexing
   - Mathematical operations
-  - Random number generation
+  - OPTIONAL Random number generation
 - **1.1.3 Data Manipulation**
   - Pandas fundamentals
   - Data cleaning and preprocessing
