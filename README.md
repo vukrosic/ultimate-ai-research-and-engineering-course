@@ -17,9 +17,9 @@ Goal is for learners to be able to join top tier labs (OpenAI, Google, MIT) or p
 ## Module 1: Foundations
 *Building blocks of machine learning and computation*
 
-### 1.1 Programming Fundamentals
+### OPTIONAL 1.1 Programming Fundamentals
 - **1.1.1 Python Basics**
-  - Variables and data types
+  - Variables and data types [Markdown](1.1 Programming Fundamentals/1.1.1 Python Basics/Variables and Data Types.md) [Jupyther](1.1 Programming Fundamentals/1.1.1 Python Basics/Variables and Data Types.ipynb)
   - Lists, dictionaries, functions
   - Control flow and loops
   - File I/O and string manipulation
