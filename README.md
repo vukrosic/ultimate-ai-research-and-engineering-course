@@ -1,4 +1,4 @@
-Goal is for learners to be able to join top tier labs (OpenAI, Google, MIT) or publish cutting edge open source research & code models.
+Goal is to be able to join top tier labs (OpenAI, Google, MIT) or publish cutting edge open source research & code models.
 
 [Introduction & Motivation](https://dev.to/vuk_rosic/-introduction-motivation-p8f)
 
@@ -13,6 +13,8 @@ Goal is for learners to be able to join top tier labs (OpenAI, Google, MIT) or p
 
 
 # Machine Learning & Deep Learning Course Syllabus
+
+## Module 0: Introduction & Motivatio
 
 ## Module 1: Foundations
 *Building blocks of machine learning and computation*
