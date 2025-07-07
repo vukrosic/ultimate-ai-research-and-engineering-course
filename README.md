@@ -15,6 +15,8 @@ Goal is to be able to join top tier labs (OpenAI, Google, MIT) or publish cuttin
 # Machine Learning & Deep Learning Course Syllabus
 
 ## Module 0: Introduction & Motivatio
+[Article](001%20Introduction%20%26%20Motivatio/README.md)
+[Article2](001%20Introduction%20%26%20Motivatio)
 
 ## Module 1: Foundations
 *Building blocks of machine learning and computation*
@@ -23,7 +25,7 @@ Goal is to be able to join top tier labs (OpenAI, Google, MIT) or publish cuttin
 - **1.1.1 Python Basics**
   - Variables and data types 
   [Colab](https://colab.research.google.com/drive/1jH6V6G5Z5F2S9j6LkwwYUqDMKcJJPXFH?usp=sharing)
-  [Blog](1.1%20Programming%20Fundamentals/1.1.1%20Python%20Basics/Variables%20and%20Data%20Types.md)
+  [Article](1.1%20Programming%20Fundamentals/1.1.1%20Python%20Basics/Variables%20and%20Data%20Types.md)
   [Jupyter](1.1%20Programming%20Fundamentals/1.1.1%20Python%20Basics/Variables%20and%20Data%20Types.ipynb)
   - Lists, dictionaries, functions
   - Control flow and loops
