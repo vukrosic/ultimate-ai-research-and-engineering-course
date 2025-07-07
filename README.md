@@ -19,7 +19,9 @@ Goal is for learners to be able to join top tier labs (OpenAI, Google, MIT) or p
 
 ### OPTIONAL 1.1 Programming Fundamentals
 - **1.1.1 Python Basics**
-  - Variables and data types [Markdown](1.1 Programming Fundamentals/1.1.1 Python Basics/Variables and Data Types.md) [Jupyther](1.1 Programming Fundamentals/1.1.1 Python Basics/Variables and Data Types.ipynb)
+  - Variables and data types 
+  [Markdown](1.1%20Programming%20Fundamentals/1.1.1%20Python%20Basics/Variables%20and%20Data%20Types.md)
+  [Jupyter](1.1%20Programming%20Fundamentals/1.1.1%20Python%20Basics/Variables%20and%20Data%20Types.ipynb)
   - Lists, dictionaries, functions
   - Control flow and loops
   - File I/O and string manipulation
