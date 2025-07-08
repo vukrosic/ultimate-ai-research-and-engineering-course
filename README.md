@@ -12,4 +12,8 @@ I recommend making a copy of a notebook.
 
 ---
 
-High-Performance GPU Matrix Multiplication on H100, H200 & H800 from Scratch - [Google Colab](https://colab.research.google.com/drive/1zxrSNFySwuNycT30Huy3bjxvoEjHbrMa?usp=sharing)
+# High Performance on Hopper GPUs (H100, H200, H800)
+
+- TMA (Tensor Memory Accelerator) alignment for fast memory (DeepSeek's speed) - [Google Colab](https://colab.research.google.com/drive/1F6CNQND2F9a4yLLYqorNAkKEzVxQurCa?usp=sharing)
+
+- High-Performance GPU Matrix Multiplication on H100, H200 & H800 from Scratch - [Google Colab](https://colab.research.google.com/drive/1zxrSNFySwuNycT30Huy3bjxvoEjHbrMa?usp=sharing)
