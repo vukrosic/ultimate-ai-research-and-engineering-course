@@ -30,5 +30,5 @@ I recommend making a copies of the notebooks (Open notebook -> File -> Save copy
 
 - TMA (Tensor Memory Accelerator) alignment for fast memory on Hopper GPUs (DeepSeek's speed) - [Google Colab](https://colab.research.google.com/drive/1F6CNQND2F9a4yLLYqorNAkKEzVxQurCa?usp=sharing)
 
-- High-Performance GPU Matrix Multiplication on H100, H200 & H800 from Scratch - [Google Colab](https://colab.research.google.com/drive/1zxrSNFySwuNycT30Huy3bjxvoEjHbrMa?usp=sharing)
+- High-Performance GPU Matrix Multiplication on H800, H100 & H200 from Scratch - [Google Colab](https://colab.research.google.com/drive/1zxrSNFySwuNycT30Huy3bjxvoEjHbrMa?usp=sharing)
 
