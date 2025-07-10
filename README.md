@@ -1,4 +1,6 @@
-After mastering this course you will be able to join elite labs like OpenAI, Google, or MIT, or to independently publish groundbreaking open-source research and build world-class models.
+A structured path for learning AI / LM research with my [YouTube videos](https://www.youtube.com/channel/UC7XJj9pv_11a11FUxCMz15g).
+
+I'm developing this course to contain everything you need to join elite labs like OpenAI, Google, or MIT, or to independently publish groundbreaking open-source research and build world-class models.
 
 [Introduction & Motivation](001%20Introduction%20%26%20Motivation)
 
