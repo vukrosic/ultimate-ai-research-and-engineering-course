@@ -2,13 +2,9 @@ After mastering this course you will be able to join elite labs like OpenAI, Goo
 
 [Introduction & Motivation](001%20Introduction%20%26%20Motivation)
 
-This course consists of 2 parts: Beginner & Advanced.
+If you don't know Python, [click here](beginner-course) for the Python course.
 
-For beginner part, [click here](beginner-course)
-
-Advanced part is below.
-
-I recommend making a copy of a notebook.
+I recommend making a copies of the notebooks (Open notebook -> File -> Save copy to drive).
 
 ---
 
@@ -16,7 +12,17 @@ I recommend making a copy of a notebook.
 
 - PyTorch Fundamentals: From Linear Layers & Weight Intuition to LayerNorm, Variance, and Custom ML Blocks - [Google Colab](https://colab.research.google.com/drive/1Mk37B4ISgmhTNDEVTCB3R_Fwp5zEEqVS?usp=sharing) - [YouTube](https://youtu.be/QtlDV2r1ryE) - [Bilibili](https://www.bilibili.com/video/BV17LGczLED3/)
 
-- Code Softmax, Cross-Entropy, and Gradients — From Scratch (No Torch) (_In progress_) [Googe Colab](https://colab.research.google.com/drive/1eCRAS6c0Fdy3PBitC2aztSDzp_CoSa_W?usp=sharing)
+- Code Softmax, Cross-Entropy, and Gradients — From Scratch (No Torch) (_In development_) - [Googe Colab](https://colab.research.google.com/drive/1eCRAS6c0Fdy3PBitC2aztSDzp_CoSa_W?usp=sharing)
+
+    ## Backpropagation
+
+- Backpropagation from scratch (_In development_) - [Google Colab]
+
+    ## Matrix Multiplication
+
+- Comparing MatMul: PyTorch Native vs Tiling vs Quantization (_In development_) - [Google Colab](https://colab.research.google.com/drive/1a_tkXxZ0gt3gFd52IP25bwrVvL8Cenyu?usp=sharing)
+
+- TODO: how to optimize matmuls on specific GPUs
 
 # High Performance on Hopper GPUs (H100, H200, H800)
 
