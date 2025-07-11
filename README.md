@@ -1,14 +1,14 @@
-A structured path for learning AI / LM research with my [YouTube videos](https://www.youtube.com/channel/UC7XJj9pv_11a11FUxCMz15g).
+A structured path for learning AI / LM research & engineering with my [YouTube videos](https://www.youtube.com/channel/UC7XJj9pv_11a11FUxCMz15g).
 
 I'm developing this course to contain everything you need to join elite labs like OpenAI, Google, or MIT, or to independently publish groundbreaking open-source research and build world-class models.
+
+This repo also contains [speedruns](speedruns) - research / engineering / optimization challenges for you to contribute to open source and learn new skills.
 
 [Introduction & Motivation](001%20Introduction%20%26%20Motivation)
 
 If you don't know Python, [click here](beginner-course) for the Python course.
 
-This repo also contains [speedruns](speedruns) - reserarch / engineering / optimization challenges for you to contribute to open source and learn new skills.
-
-I recommend making a copies of the notebooks (Open notebook -> File -> Save copy to drive).
+I recommend making a capy of the notebooks (Open notebook -> File -> Save a copy to Dive).
 
 ---
 
