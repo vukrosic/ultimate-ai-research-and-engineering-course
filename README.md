@@ -1,14 +1,44 @@
-A structured path for learning AI / LM research & engineering with my [YouTube videos](https://www.youtube.com/channel/UC7XJj9pv_11a11FUxCMz15g).
+# A Structured Path for Learning AI / ML Research & Engineering
 
-I'm developing this course to contain everything you need to join elite labs like OpenAI, Google, or MIT, or to independently publish groundbreaking open-source research and build world-class models.
+I'm developing this course to contain **everything you need** to:
 
-This repo also contains [speedruns](speedruns) - research / engineering / optimization challenges for you to contribute to open source and learn new skills.
+* Join elite labs like **OpenAI**, **Google**, or **MIT**
+* Independently publish **groundbreaking open-source research**
+* Build **world-class models**
 
-[Introduction & Motivation](001%20Introduction%20%26%20Motivation)
 
-If you don't know Python, [click here](beginner-course) for the Python course.
+## 📺 [My YouTube Videos](https://www.youtube.com/channel/UC7XJj9pv_11a11FUxCMz15g)
 
-I recommend making a capy of the notebooks (Open notebook -> File -> Save a copy to Dive).
+Follow along with course walkthroughs, video tutorials, and explanations.
+
+
+
+## ⚡ Speedruns
+
+For advanced learners, check out the [Speedruns](speedruns):
+Research / engineering / optimization challenges that help you:
+
+* Contribute to open-source
+* Build real skills by doing
+
+---
+---
+# 📚 Course
+
+📘 [Introduction & Motivation](001%20Introduction%20%26%20Motivation)
+
+
+## 🐍 Don't Know Python?
+
+Start with the [Beginner Python Course](beginner-course) to get up to speed.
+
+---
+
+### 🗂️ Tip
+
+Make a copy of the notebooks:
+**Open notebook → File → Save a copy to Dive**
+
 
 ---
 
