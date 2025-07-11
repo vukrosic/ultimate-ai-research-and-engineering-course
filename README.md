@@ -50,6 +50,8 @@ Make a copy of the notebooks:
 
 - Comparing MatMul: PyTorch Native vs Tiling vs Quantization (_In development_) - [Google Colab](https://colab.research.google.com/drive/1a_tkXxZ0gt3gFd52IP25bwrVvL8Cenyu?usp=sharing)
 
+- Make Matrix Multiply 3x Faster by Padding Size to Power of 2 - [Google Colab](https://colab.research.google.com/drive/1VKIQS5ocefunYkoE-8uFz_0_xOtkBelG?usp=sharing)
+
 - TODO: how to optimize matmuls on specific GPUs
 
 # High Performance on Hopper GPUs (H100, H200, H800)
