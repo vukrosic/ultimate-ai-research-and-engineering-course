@@ -6,4 +6,4 @@ When you break a record, you can create a new issue or email me at vukrosic1@gma
 
 ## Fastest Training on NVidia T4 (Google Colab, Kaggle,...)
 
-- **Mod-God Speedrun**: A neural net needs to achieve ≥ 95% test accuracy for outputting the result of `(a + b) % 17`, for `0 <= a < 34` and `0 <= b < 34` - [Google Colab](https://colab.research.google.com/drive/1cjFYsld33HPrSBQLlpenSlJWrhrR8f-L?usp=sharing)
+- **Mod-God Speedrun**: A neural net needs to achieve ≥ 95% test accuracy for outputting the result of `(a + b) % 17`, for `0 <= a < 34` and `0 <= b < 34` - [Google Colab](https://colab.research.google.com/drive/1cjFYsld33HPrSBQLlpenSlJWrhrR8f-L?usp=sharing) - [YouTube](https://youtu.be/QtlDV2r1ryE) - [Bilibili](https://www.bilibili.com/video/BV1ZKugzhEKX/)
