@@ -6,6 +6,8 @@ I'm developing this course to contain everything you need to join elite labs lik
 
 If you don't know Python, [click here](beginner-course) for the Python course.
 
+This repo also contains [speedruns](speedruns) - reserarch / engineering / optimization challenges for you to contribute to open source and learn new skills.
+
 I recommend making a copies of the notebooks (Open notebook -> File -> Save copy to drive).
 
 ---
@@ -18,7 +20,7 @@ I recommend making a copies of the notebooks (Open notebook -> File -> Save copy
 
     ## Backpropagation
 
-- Backpropagation from scratch (_In development_) - [Google Colab]
+- Chain Rule & Backpropagation From Scratch [Google Colab](https://colab.research.google.com/drive/1wcNWayyiB8i4fjKEYmsiIuJmGEN5lTQK?usp=sharing)
 
     ## Matrix Multiplication
 
