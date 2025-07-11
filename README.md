@@ -62,3 +62,6 @@ Make a copy of the notebooks:
 
 - High-Performance GPU Matrix Multiplication on H800, H100 & H200 from Scratch - [Google Colab](https://colab.research.google.com/drive/1zxrSNFySwuNycT30Huy3bjxvoEjHbrMa?usp=sharing)
 
+# Fun experiments
+
+- Looking for patterns in trained neural network weights - [Google Colab](https://colab.research.google.com/drive/1P7KreHpJcZL4vjDrRqd69eqsEFYl_2Oa?usp=sharing) - [Preview PDF Analysis](https://file.notion.so/f/f/795d9b1f-4854-4c8d-8295-2ca702b9d498/439a9db5-3835-4ef6-82df-d2576aed18a2/Looking_for_patterns_in_trained_neural_network_weights.pdf?table=block&id=22d7982f-d437-80e7-96f4-e1d80912ff49&spaceId=795d9b1f-4854-4c8d-8295-2ca702b9d498&expirationTimestamp=1752271200000&signature=fV4tMNJ0SwedGljjU3-guwNywDRrhy2XvFrDPWMgqBI&downloadName=Looking+for+patterns+in+trained+neural+network+weights.pdf) _In development_
