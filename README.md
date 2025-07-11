@@ -21,8 +21,7 @@ Research / engineering / optimization challenges that help you:
 * Contribute to open-source
 * Build real skills by doing
 
----
----
+
 # 📚 Course
 
 📘 [Introduction & Motivation](001%20Introduction%20%26%20Motivation)
@@ -32,15 +31,10 @@ Research / engineering / optimization challenges that help you:
 
 Start with the [Beginner Python Course](beginner-course) to get up to speed.
 
----
-
 ### 🗂️ Tip
 
 Make a copy of the notebooks:
 **Open notebook → File → Save a copy to Dive**
-
-
----
 
 # Fundamentals (Most important)
 
