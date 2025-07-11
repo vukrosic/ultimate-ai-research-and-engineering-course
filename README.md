@@ -52,6 +52,8 @@ Make a copy of the notebooks:
 
 - Make Matrix Multiply 3x Faster by Padding Size to Power of 2 - [Google Colab](https://colab.research.google.com/drive/1VKIQS5ocefunYkoE-8uFz_0_xOtkBelG?usp=sharing)
 
+- How Matrix Shape Affects Performance on Nvidia T4 Tensor Cores - _(in development)_ - [Google Colab](https://colab.research.google.com/drive/1eiWkfbrNv2GW7kDMty1jf_xzrEuqHOrO?usp=sharing)
+
 - TODO: how to optimize matmuls on specific GPUs
 
 # High Performance on Hopper GPUs (H100, H200, H800)
