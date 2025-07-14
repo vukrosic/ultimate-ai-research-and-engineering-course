@@ -57,9 +57,12 @@ Make a copy of the notebooks:
 - TODO: how to optimize matmuls on specific GPUs
 
     ## Training LLMs From Scratch
-    
+
 - Experimenting With Small Character-Level LLM:
 Hyperparameters, Optimization, and Model Scaling - [Paper](https://drive.google.com/file/d/1sXN-c-L7z3ku29N4QVp6mAP7ZuX7B7Xf/view?usp=sharing) - [Google Colab](https://colab.research.google.com/drive/11bc71DzTe95XDq6IRbJPQtAy_pVD9fhC?usp=sharing)
+
+    ## Diffusion Models
+- Code & train a small diffusion model to calculate A mod B - [Google Colab](https://colab.research.google.com/drive/1lDMgngIQBL0btjavGcdwktZtixGSpE1I?usp=sharing)
 
 # High Performance on Hopper GPUs (H100, H200, H800)
 
