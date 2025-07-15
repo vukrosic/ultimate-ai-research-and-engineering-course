@@ -64,6 +64,8 @@ Hyperparameters, Optimization, and Model Scaling - [Paper](https://drive.google.
     ## Diffusion Models
 - Code & train a small diffusion model to calculate A mod B - [Google Colab](https://colab.research.google.com/drive/1lDMgngIQBL0btjavGcdwktZtixGSpE1I?usp=sharing)
 
+    ## Other (important) Models
+- Understand Simple Autoencoder - [Google Colab](https://colab.research.google.com/drive/18dZm4moQmuZOfVXKwlClmPhAcjV4rtIg?usp=sharing)
 # High Performance on Hopper GPUs (H100, H200, H800)
 
 - TMA (Tensor Memory Accelerator) alignment for fast memory on Hopper GPUs (DeepSeek's speed) - [Google Colab](https://colab.research.google.com/drive/1F6CNQND2F9a4yLLYqorNAkKEzVxQurCa?usp=sharing)
