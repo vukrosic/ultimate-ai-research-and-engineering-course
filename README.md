@@ -66,15 +66,15 @@ Hyperparameters, Optimization, and Model Scaling - [Paper](https://drive.google.
 
     ## Other (important) Models
 - Understand Simple Autoencoder - [Google Colab](https://colab.research.google.com/drive/18dZm4moQmuZOfVXKwlClmPhAcjV4rtIg?usp=sharing)
-        > I had no idea autoencoders are so quick to train, a few seconds for autoencoder of numbers (0-10,000):
+    > I had no idea autoencoders are so quick to train, a few seconds for autoencoder of numbers (0-10,000):
 
-        > Encoder takes a number (56) -> vector embedding [0.3, 0.7, 0.42,...] -> decoder aims to predict the encoded number (56) from the vector embedding - these vector embeddings contain rich representation of the encoded number (token, sentence,...) that can be used in a models like LLMs, diffusion,...
+    > Encoder takes a number (56) -> vector embedding [0.3, 0.7, 0.42,...] -> decoder aims to predict the encoded number (56) from the vector embedding - these vector embeddings contain rich representation of the encoded number (token, sentence,...) that can be used in a models like LLMs, diffusion,...
 
-        > I'm figuring out autoencoders as I think LLMs should process sentences, not tokens, as sentences can represent infinite number of concepts, as opposed to limited token vocabulary (usually about 150K)
+    > I'm figuring out autoencoders as I think LLMs should process sentences, not tokens, as sentences can represent infinite number of concepts, as opposed to limited token vocabulary (usually about 150K)
 
-        > Predicting over infinite distribution requires diffusion models (like seemingly infinite number of possible images), as autoregressive would just predict the blury average of the image, sentence, without any meaning.
+    > Predicting over infinite distribution requires diffusion models (like seemingly infinite number of possible images), as autoregressive would just predict the blury average of the image, sentence, without any meaning.
 
-        > Also diffusion model allows us to have truly unified training in the same latent space for visual and text data.
+    > Also diffusion model allows us to have truly unified training in the same latent space for visual and text data.
 
 
 # High Performance on Hopper GPUs (H100, H200, H800)
