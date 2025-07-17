@@ -61,6 +61,7 @@ Make a copy of the notebooks:
 - Experimenting With Small Character-Level LLM:
 Hyperparameters, Optimization, and Model Scaling - [Paper](https://drive.google.com/file/d/1sXN-c-L7z3ku29N4QVp6mAP7ZuX7B7Xf/view?usp=sharing) - [Google Colab](https://colab.research.google.com/drive/11bc71DzTe95XDq6IRbJPQtAy_pVD9fhC?usp=sharing)
 
+- Train a Small LLM From Scratch In 50 Min - [Google Colab](https://colab.research.google.com/drive/1NUopXFOY_VDI_o72TEAnzfeSKmAPuz_9?usp=sharing)
     ## Diffusion Models
 - Simplest diffusion model to generate points on a circle - [Google Colab](https://colab.research.google.com/drive/1alWuxOD8PiD1D7rbumKuFkEkzkj1JsbI?usp=sharing)
 - Code & train a small diffusion model to calculate A mod B - [Google Colab](https://colab.research.google.com/drive/1lDMgngIQBL0btjavGcdwktZtixGSpE1I?usp=sharing)
