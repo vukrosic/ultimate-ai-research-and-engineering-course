@@ -38,6 +38,8 @@ Make a copy of the notebooks:
 
 # Fundamentals (Most important)
 
+- Intro course - Deep Learning by Professor Bryce - [YouTube](https://www.youtube.com/playlist?list=PLgPbN3w-ia_PeT1_c5jiLW3RJdR7853b9)
+
 - PyTorch Fundamentals: From Linear Layers & Weight Intuition to LayerNorm, Variance, and Custom ML Blocks - [Google Colab](https://colab.research.google.com/drive/1Mk37B4ISgmhTNDEVTCB3R_Fwp5zEEqVS?usp=sharing) - [YouTube](https://youtu.be/QtlDV2r1ryE) - [Bilibili](https://www.bilibili.com/video/BV17LGczLED3/)
 
 - Code Softmax, Cross-Entropy, and Gradients — From Scratch (No Torch) (_In development_) - [Googe Colab](https://colab.research.google.com/drive/1eCRAS6c0Fdy3PBitC2aztSDzp_CoSa_W?usp=sharing)
