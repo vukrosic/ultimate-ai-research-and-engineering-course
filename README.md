@@ -68,6 +68,9 @@ Hyperparameters, Optimization, and Model Scaling - [Paper](https://drive.google.
 - Simplest diffusion model to generate points on a circle - [Google Colab](https://colab.research.google.com/drive/1alWuxOD8PiD1D7rbumKuFkEkzkj1JsbI?usp=sharing)
 - Code & train a small diffusion model to calculate A mod B - [Google Colab](https://colab.research.google.com/drive/1lDMgngIQBL0btjavGcdwktZtixGSpE1I?usp=sharing)
 
+    ## My Research & Research Tools
+- How To Do LLM Research In Google Colab - [GitHub](https://github.com/vukrosic/do-small-llm-research) - [YouTube](https://youtu.be/Z9ADNoge4P8)
+
     ## Other (important) Models
 - Understand Simple Autoencoder - [Google Colab](https://colab.research.google.com/drive/18dZm4moQmuZOfVXKwlClmPhAcjV4rtIg?usp=sharing)
     > I had no idea autoencoders are so quick to train, a few seconds for autoencoder of numbers (0-10,000):
