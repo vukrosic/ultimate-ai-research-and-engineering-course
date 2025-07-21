@@ -69,7 +69,7 @@ Hyperparameters, Optimization, and Model Scaling - [Paper](https://drive.google.
 - Code & train a small diffusion model to calculate A mod B - [Google Colab](https://colab.research.google.com/drive/1lDMgngIQBL0btjavGcdwktZtixGSpE1I?usp=sharing)
 
     ## My Research & Research Tools
-- How To Do LLM Research In Google Colab - [GitHub](https://github.com/vukrosic/do-small-llm-research) - [YouTube](https://youtu.be/Z9ADNoge4P8)
+- How To Do LLM Research In Google Colab - [GitHub](https://github.com/vukrosic/do-small-llm-research) - [YouTube](https://youtu.be/Y-Dj4F39Ay4)
 
     ## Other (important) Models
 - Understand Simple Autoencoder - [Google Colab](https://colab.research.google.com/drive/18dZm4moQmuZOfVXKwlClmPhAcjV4rtIg?usp=sharing)
